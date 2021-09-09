@@ -4,3 +4,9 @@
 This have possibly been the most followed elections of the last decades. Words such as "Biden", "Trump", or simply "US elections" were trending topic numerous times in social networks, including Twitter, the favorite tool of the then president Donald Trump.
 
   In the following project, a compilation of the tweets circulating at that time has been compiled and analyzed using an information retrieval model and further analysis of the collected web data.
+
+## Documentation
+You can find the documentation of the project describing each functionality and study of the Search Engine in the root of the repository, or clicking [here](https://github.com/VPRamon/IR-WA-on-US-elections/blob/main/Documentation.pdf).
+
+## Contact
+For any doubt or reporting bug, you can contact me by email: vallespuigramon@gmail.com
